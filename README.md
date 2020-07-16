@@ -3,8 +3,7 @@
 ## 一、使用教程
 
 （1）首先打开MATLAB命令界面，输入“config”选择“打开现有GUI”，选择目录下的“image1.fig”文件，点击右上角的run运行文件，用户界面如下：
-
-![主界面](C:\Users\LUXUS\AppData\Local\Temp\1594812959053.png)
+![add image](https://github.com/LUXUS1/Image-Processing-System-MATLAB-GUI/blob/master/im/1594812959053.png)
 
 （2）此界面通过通过三个面板来显示图像，首先点击“选择图像”，在原始图像框中显示；然后选择要处理的方式，点击前方按钮，在过渡图像相框和处理结果框中显示过渡图像和最终图像。
 
